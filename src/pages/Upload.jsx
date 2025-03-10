@@ -23,7 +23,7 @@ const MemeUpload = () => {
       setPreview(URL.createObjectURL(selectedFile));
     } else {
       toast.error("Only images and GIFs are allowed!");
-    }
+    }  
   };
 
   const generateAICaption = async () => {

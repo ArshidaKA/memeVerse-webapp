@@ -1,4 +1,4 @@
-# 🎭 MemeVerse - The Ultimate Meme Explorer 🎉  
+# MemeVerse - The Ultimate Meme Explorer 
 
 MemeVerse is a fun and interactive platform where users can explore, upload, and enjoy trending memes.  
 With advanced filtering, infinite scrolling, and AI-generated meme captions.
@@ -10,7 +10,7 @@ With advanced filtering, infinite scrolling, and AI-generated meme captions.
 
 
 
-## 🌟 Features  
+## Features  
 
  **Modern Navbar** – Smooth animations & dark mode toggle.  
  **Homepage** – Displays trending memes with interactive animations.  

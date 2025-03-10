@@ -95,7 +95,7 @@ function Explore() {
                 placeholder="Search Memes"
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
-                className="w-full py-2 px-4 placeholder-black rounded-xl shadow-2xl text-black bg-gray-200 focus:outline-none"
+                className="w-full py-2 px-4 placeholder-black rounded-xl shadow-2xl text-black bg-gray-100 focus:outline-none"
               />
               <button className="absolute right-2 top-1/2 -translate-y-1/2 bg-gray-800  p-2 text-white rounded-full hover:bg-gray-700 transition-colors">
                 <Search className="h-5 w-5" />

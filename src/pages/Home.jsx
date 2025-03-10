@@ -7,6 +7,7 @@ import { useEffect } from "react";
 import { fetchMemes } from "../redux/memeSlice"; 
 import Body from "../components/Body";
 import { motion } from "framer-motion";
+import { ArrowRight } from "lucide-react";
 
 export default function Home() {
   const dispatch = useDispatch();

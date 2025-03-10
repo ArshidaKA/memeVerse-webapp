@@ -10,7 +10,7 @@ export default function MemeOfTheDay() {
   useEffect(() => {
     if (memes.length > 0) {
       const randomIndex = new Date().getDate() % memes.length;
-      setMemeOfTheDay(memes[30]);
+      setMemeOfTheDay(memes[randomIndex]);
     }
   }, [memes]);
 
